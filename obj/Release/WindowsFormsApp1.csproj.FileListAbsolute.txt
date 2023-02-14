@@ -1,0 +1,14 @@
+E:\Raspberi je smece\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+E:\Raspberi je smece\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.manifest
+E:\Raspberi je smece\WindowsFormsApp1\bin\Release\WindowsFormsApp1.application
+E:\Raspberi je smece\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+E:\Raspberi je smece\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+E:\Raspberi je smece\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Raspberi je smece\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+E:\Raspberi je smece\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\Raspberi je smece\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Raspberi je smece\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Raspberi je smece\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.manifest
+E:\Raspberi je smece\WindowsFormsApp1\obj\Release\WindowsFormsApp1.application
+E:\Raspberi je smece\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+E:\Raspberi je smece\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
