@@ -4,7 +4,7 @@
 
 <p align="center">
   
-<img src="PcMonitor"/>
+<img src="PcMonitor.png"/>
 
 <p align="center">
 PCMonitor is a software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.
